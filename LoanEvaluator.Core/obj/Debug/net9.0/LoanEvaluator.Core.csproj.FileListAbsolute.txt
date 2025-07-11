@@ -1,0 +1,11 @@
+D:\CCHOMEWORK\LoanEvaluator.Core\bin\Debug\net9.0\LoanEvaluator.Core.deps.json
+D:\CCHOMEWORK\LoanEvaluator.Core\bin\Debug\net9.0\LoanEvaluator.Core.dll
+D:\CCHOMEWORK\LoanEvaluator.Core\bin\Debug\net9.0\LoanEvaluator.Core.pdb
+D:\CCHOMEWORK\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CCHOMEWORK\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.AssemblyInfoInputs.cache
+D:\CCHOMEWORK\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.AssemblyInfo.cs
+D:\CCHOMEWORK\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.csproj.CoreCompileInputs.cache
+D:\CCHOMEWORK\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.dll
+D:\CCHOMEWORK\LoanEvaluator.Core\obj\Debug\net9.0\refint\LoanEvaluator.Core.dll
+D:\CCHOMEWORK\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.pdb
+D:\CCHOMEWORK\LoanEvaluator.Core\obj\Debug\net9.0\ref\LoanEvaluator.Core.dll
